@@ -4,11 +4,11 @@
 ## DecisionTree.py 
  * constructor 
  * Breadth-First Traversal
- * print function that uses BFT
+ * tree_to_csv() function that turns a tree to CSV file 
  
  
  ## CL-to-DT
-  * edits a Common Lisp file and turns a tree into a string
+  * edits a Common Lisp file (deletes comments, preprocesses NIL statements for the further conversion) and turns a tree into a string
   * turns a string representation of a tree into Python Binary Tree using stacks and parentheses patterns 
  
 
